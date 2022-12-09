@@ -100,7 +100,7 @@ button{
     font-family: 'Kanit', sans-serif;
     color: #293373;
     font-weight: 600;
-    width: 20%;
+    width: min-content;
     height: 40px;
     border: none;
 }
