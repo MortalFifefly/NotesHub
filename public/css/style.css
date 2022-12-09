@@ -8,7 +8,7 @@ body{
     z-index: -1;
     width: 100%;
     height: 100%;
-    background-image: url("../../backgrounds/background.gif");
+    background-image: url("/backgrounds/background.gif");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
