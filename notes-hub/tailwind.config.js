@@ -15,9 +15,6 @@ module.exports = {
       fontFamily: {
         Comfortaa: ["Comfortaa", "sans-serif"],
       },
-      backgroundImage:{
-        phy: "url('/src/phy.jpg')",
-      }
     },
   },
   plugins: [],

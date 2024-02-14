@@ -2,4 +2,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
+.subHeight{
+    height: 50vh;
+    margin-top: 5%;
+    width: 50rem;
+    align-items: center;
+}
