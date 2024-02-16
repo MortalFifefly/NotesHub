@@ -14,6 +14,16 @@ module.exports = {
       },
       fontFamily: {
         Comfortaa: ["Comfortaa", "sans-serif"],
+        Teko: ["Teko", "sans-serif"],
+      },
+      dropShadow:{
+        'gl': '0 0 10px #bae6fd80',
+      },
+      fontSize: {
+        "3.5xl": "2rem",
+      },
+      textShadow: {
+        "tgl": "0 0 10px #bae6fd",
       },
     },
   },
