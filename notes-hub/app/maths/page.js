@@ -51,7 +51,7 @@ const Page1 = () => {
                     <button ref={gridItem7} className='bg-purple-400' onClick={gridUpdate.bind(gridItem7.current)}>2</button>
                     <button ref={gridItem8} className='bg-purple-400' onClick={gridUpdate.bind(gridItem8.current)}>3</button>
                     <button ref={gridItem9} className='bg-purple-400' onClick={gridUpdate.bind(gridItem9.current)}>4</button>
-                    <button ref={gridItem10} className='bg-purple-400' onClick={gridUpdate.bind(gridItem10.current)}>5</button>
+                    <button ref={gridItem10} className='bg-purple-400' onClick={console.log(this)}>5</button>
                 </div>
             </div>
         </div>
